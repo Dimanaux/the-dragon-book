@@ -12,7 +12,7 @@ My solutions for the exercises from the book "Compilers: Principles, Techniques,
         + [1.6.8 Exercises for Section 1.6](solutions/1.6%20Programming%20Langugage%20Basics/1.6.8-exercises.md)
 2. A Simple Syntax-Directed Translator
     - 2.2 Syntax Definition
-        + 2.2.7 Exercises for Section 2.2
+        + [2.2.7 Exercises for Section 2.2](solutions/2.2%20Syntax%20Definition/2.2.7-exercises.md)
     - 2.3 Syntax-Directed Translation
         + 2.3.6 Exercises for Section 2.3
     - 2.4 Parsing
